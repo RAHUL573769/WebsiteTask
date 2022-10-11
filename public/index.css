@@ -1,0 +1,29 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+} */
+
+h1 {
+  font-size: 50px;
+  font-weight: 500;
+}
+section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding-left: 10%;
+}
+.half-width img {
+  /* width: 100%; */
+}
+
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(lightblue, cyan);
+  color: white;
+  padding: 10px 40px;
+}
+.bgImage {
+  background-image: url("../images/Untitled-2-01.jpg");
+}
